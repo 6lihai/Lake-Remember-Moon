@@ -1,0 +1,664 @@
+Unity Editor version:    2022.3.17f1c1 (a01dafa986ec)
+Branch:                  2022.3/china_unity/release
+Build type:              Release
+Batch mode:              YES
+macOS version:           Version 14.3 (Build 23D56)
+Darwin version:          23.3.0
+Architecture:            x86_64
+Running under Rosetta:   NO
+Available memory:        16384 MB
+Using pre-set license
+Pro License: YES
+
+COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2022.3.17f1c1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+/Users/hankage/Desktop/结课/JK2/JK2
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+60208
+Successfully changed project path to: /Users/hankage/Desktop/结课/JK2/JK2
+/Users/hankage/Desktop/结课/JK2/JK2
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [140704450344896] Host "[IP] 10.61.78.198 [Port] 0 [Flags] 2 [Guid] 1201738054 [EditorId] 1201738054 [Version] 1048832 [Id] OSXEditor(0,hankagedeMacBook-Pro.local) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [140704450344896] Host "[IP] 10.61.78.198 [Port] 0 [Flags] 2 [Guid] 1201738054 [EditorId] 1201738054 [Version] 1048832 [Id] OSXEditor(0,hankagedeMacBook-Pro.local) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[Physics::Module] Initialized MultithreadedJobDispatcher with 11 workers.
+Refreshing native plugins compatible for Editor in 42.14 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.17f1c1 (a01dafa986ec)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2022.3.17f1c1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/hankage/Desktop/结课/JK2/JK2/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Color LCD preferred device: AMD Radeon Pro 5300M (high power)
+Metal devices available: 2
+0: AMD Radeon Pro 5300M (high power)
+1: Intel(R) UHD Graphics 630 (low power)
+Using device AMD Radeon Pro 5300M (high power)
+Initializing Metal device caps: AMD Radeon Pro 5300M
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2022.3.17f1c1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2022.3.17f1c1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos'
+Mono config path = '/Applications/Unity/Hub/Editor/2022.3.17f1c1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56741
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2022.3.17f1c1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2022.3.17f1c1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2022.3.17f1c1/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2022.3.17f1c1/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2022.3.17f1c1/PlaybackEngines/VisionOSPlayer/UnityEditor.VisionOS.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2022.3.17f1c1/PlaybackEngines/AppleTVSupport/UnityEditor.AppleTV.Extensions.dll
+Registered in 0.009307 seconds.
+- Loaded All Assemblies, in  0.493 seconds
+[usbmuxd] Start listen thread
+[usbmuxd] Listen thread started
+[usbmuxd] Send listen message
+[usbmuxd] Attached: 6 00008110-0018293E0AF3801E
+Native extension for AppleTV target not found
+objc[9741]: Class XcodeScriptingDelegate is implemented in both /Applications/Unity/Hub/Editor/2022.3.17f1c1/PlaybackEngines/AppleTVSupport/x64/UnityEditor.iOS.Native.dylib (0x15927c118) and /Applications/Unity/Hub/Editor/2022.3.17f1c1/PlaybackEngines/VisionOSPlayer/x64/UnityEditor.VisionOS.Native.dylib (0x1592a4118). One of the two will be used. Which one is undefined.
+[usbmuxd] Start listen thread
+[usbmuxd] Listen thread started
+[usbmuxd] Send listen message
+[usbmuxd] Attached: 6 00008110-0018293E0AF3801E
+Native extension for VisionOS target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 130 ms
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.631 seconds
+Domain Reload Profiling: 1124ms
+	BeginReloadAssembly (175ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (45ms)
+	RebuildNativeTypeToScriptingClass (14ms)
+	initialDomainReloadingComplete (64ms)
+	LoadAllAssembliesAndSetupDomain (196ms)
+		LoadAssemblies (179ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (189ms)
+			TypeCache.Refresh (187ms)
+				TypeCache.ScanAssembly (170ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (632ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (561ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (369ms)
+			SetLoadedEditorAssemblies (5ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (3ms)
+			ProcessInitializeOnLoadAttributes (133ms)
+			ProcessInitializeOnLoadMethodAttributes (53ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.095 seconds
+Refreshing native plugins compatible for Editor in 3.88 ms, found 3 plugins.
+Native extension for AppleTV target not found
+Native extension for VisionOS target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  1.036 seconds
+Domain Reload Profiling: 2132ms
+	BeginReloadAssembly (150ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (26ms)
+	RebuildCommonClasses (36ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (44ms)
+	LoadAllAssembliesAndSetupDomain (854ms)
+		LoadAssemblies (603ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (333ms)
+			TypeCache.Refresh (275ms)
+				TypeCache.ScanAssembly (246ms)
+			ScanForSourceGeneratedMonoScriptInfo (37ms)
+			ResolveRequiredComponents (17ms)
+	FinalizeReload (1036ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (803ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (40ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (75ms)
+			ProcessInitializeOnLoadAttributes (617ms)
+			ProcessInitializeOnLoadMethodAttributes (64ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (4ms)
+Launching external process: /Applications/Unity/Hub/Editor/2022.3.17f1c1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.08 seconds
+Refreshing native plugins compatible for Editor in 3.41 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6258 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 104 unused Assets / (2.0 MB). Loaded Objects now: 6711.
+Memory consumption went from 268.1 MB to 266.1 MB.
+Total: 6.287882 ms (FindLiveObjects: 0.436020 ms CreateObjectMapping: 0.433884 ms MarkObjects: 4.248744 ms  DeleteObjects: 1.168346 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 62b5816608c3102f162a1797e29626cf -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 55973.927377 seconds.
+  path: Assets/Samples/HoloKit Unity SDK/0.5.0/Phone Model Specs Calibration/Prefabs/TrackedCube.prefab
+  artifactKey: Guid(fc3848eb7ec3744cdbf27aa12c0006e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/HoloKit Unity SDK/0.5.0/Phone Model Specs Calibration/Prefabs/TrackedCube.prefab using Guid(fc3848eb7ec3744cdbf27aa12c0006e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ded658e02078f07871e22454e8a5287') in 0.301883 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.005414 seconds.
+  path: Assets/Chinese Painting URP/Asset/Material
+  artifactKey: Guid(90825f47bbe4736408b694b35d4b3f3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Chinese Painting URP/Asset/Material using Guid(90825f47bbe4736408b694b35d4b3f3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e035ce943d1f9cd1c7ab3b8e8151c106') in 0.000374 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.022773 seconds.
+  path: Assets/Samples/Shader Graph/14.0.9/Node Reference/Procedural
+  artifactKey: Guid(a64023881cca1ee41994541d0f0c0145) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Shader Graph/14.0.9/Node Reference/Procedural using Guid(a64023881cca1ee41994541d0f0c0145) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd172b8cbfe5bda8fd0714d53a764749') in 0.000539 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.020477 seconds.
+  path: Assets/Samples/HoloKit Unity SDK/0.5.0/Glowing Orbs/Prefabs
+  artifactKey: Guid(88d425883975941a3a487034d6fa0aa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/HoloKit Unity SDK/0.5.0/Glowing Orbs/Prefabs using Guid(88d425883975941a3a487034d6fa0aa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '212d6615ab9d3b52478eb64aea0d6cc7') in 0.000673 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.027315 seconds.
+  path: Assets/Shader
+  artifactKey: Guid(49ba3eb254889463e888bf6124d432ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shader using Guid(49ba3eb254889463e888bf6124d432ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7957aacae0cf98e626af080f8139537') in 0.000592 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.008251 seconds.
+  path: Assets/Chinese Painting URP/Asset/Model
+  artifactKey: Guid(722dbd70352a19241a5a67d6aacf4387) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Chinese Painting URP/Asset/Model using Guid(722dbd70352a19241a5a67d6aacf4387) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1450c5e439846a086887e6b1cd497c0e') in 0.000560 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.014009 seconds.
+  path: Assets/Samples/HoloKit Unity SDK/0.5.0/Gaze Interaction/Scenes/GazeInteraction.unity
+  artifactKey: Guid(21955f43439584c7aa9ec985e3414ea5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/HoloKit Unity SDK/0.5.0/Gaze Interaction/Scenes/GazeInteraction.unity using Guid(21955f43439584c7aa9ec985e3414ea5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0000b2885a687bd031dd914ea194dd24') in 0.000567 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.009164 seconds.
+  path: Assets/Chinese Painting URP/Scenes/Demo 2
+  artifactKey: Guid(9531f2cf29fb93243a40854d5b98b0c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Chinese Painting URP/Scenes/Demo 2 using Guid(9531f2cf29fb93243a40854d5b98b0c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a675f0a0404e31553a553d7aac84ce5f') in 0.000522 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.005698 seconds.
+  path: Assets/Samples/HoloKit Unity SDK/0.5.0/Glowing Orbs/Scenes
+  artifactKey: Guid(4be794f12c5b040fa9dd5d9d539bb04c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/HoloKit Unity SDK/0.5.0/Glowing Orbs/Scenes using Guid(4be794f12c5b040fa9dd5d9d539bb04c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3ab8e43dabfcfa8ea190a98980cb72e') in 0.000451 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.002637 seconds.
+  path: Assets/Samples/HoloKit Unity SDK/0.5.0/Gaze Gesture Interaction/Scenes/GazeGestureInteraction.unity
+  artifactKey: Guid(acba0376f2bdb442b873817b177d7c2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/HoloKit Unity SDK/0.5.0/Gaze Gesture Interaction/Scenes/GazeGestureInteraction.unity using Guid(acba0376f2bdb442b873817b177d7c2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2c581e2d9c5df91b6cbbb9a45404972') in 0.000388 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.056194 seconds.
+  path: Assets/Samples/HoloKit Unity SDK/0.5.0/Phone Model Specs Calibration/Scenes/CameraOffsetCalibration.unity
+  artifactKey: Guid(f2d1f713b4588408b9e9c4083b379e96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/HoloKit Unity SDK/0.5.0/Phone Model Specs Calibration/Scenes/CameraOffsetCalibration.unity using Guid(f2d1f713b4588408b9e9c4083b379e96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a3ba90e8ebaf340b9674712d2db2fa4') in 0.000662 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.001546 seconds.
+  path: Assets/Samples/HoloKit Unity SDK/0.5.0/Gaze Gesture Interaction/Materials
+  artifactKey: Guid(03a23717fba48419e9911cc866133022) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/HoloKit Unity SDK/0.5.0/Gaze Gesture Interaction/Materials using Guid(03a23717fba48419e9911cc866133022) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8ba9dda77004e52e92712552d7911ab') in 0.000569 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.006941 seconds.
+  path: Assets/Samples/Shader Graph/14.0.9/Node Reference/UV
+  artifactKey: Guid(36486eeda97f18f418a2402e3b696cc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Shader Graph/14.0.9/Node Reference/UV using Guid(36486eeda97f18f418a2402e3b696cc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f2457d44617459648aa703b71d34c85') in 0.000538 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.006885 seconds.
+  path: Assets/Samples/HoloKit Unity SDK
+  artifactKey: Guid(56cd277cd488a4917b8c7870fb2b975f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/HoloKit Unity SDK using Guid(56cd277cd488a4917b8c7870fb2b975f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8256b58e3a633f9743a9ca6b156b7ea') in 0.000605 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.027162 seconds.
+  path: Assets/Chinese Painting URP/Asset/Shader
+  artifactKey: Guid(4517f2e5029a0c5489353f944fb67670) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Chinese Painting URP/Asset/Shader using Guid(4517f2e5029a0c5489353f944fb67670) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf1f21787e184d44b15cf23abe8baf52') in 0.000561 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.017022 seconds.
+  path: Assets/XR/Loaders
+  artifactKey: Guid(53a011bb1dca14682aa8d61eed825d47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XR/Loaders using Guid(53a011bb1dca14682aa8d61eed825d47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f501e58dc125dfcfd42e813feddbd57') in 0.000445 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.002472 seconds.
+  path: Assets/XR/UserSimulationSettings/Resources
+  artifactKey: Guid(b1cab0cac4a254ee79f618a6100694d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XR/UserSimulationSettings/Resources using Guid(b1cab0cac4a254ee79f618a6100694d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2377d0d4432b2a9bf75cc08cf2479d66') in 0.000392 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.030948 seconds.
+  path: Assets/Samples/HoloKit Unity SDK/0.5.0/Phone Model Specs Calibration/Scenes/ViewportBottomOffsetCalibration.unity
+  artifactKey: Guid(0fd78d86006064ba1b20e099ff4d2469) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/HoloKit Unity SDK/0.5.0/Phone Model Specs Calibration/Scenes/ViewportBottomOffsetCalibration.unity using Guid(0fd78d86006064ba1b20e099ff4d2469) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50f28d1a275dd5d6d775f48965153e72') in 0.000352 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.001535 seconds.
+  path: Assets/Scenes/PortableDoor.unity
+  artifactKey: Guid(da4244a3ab408ae4794b9f2b6bfb8e31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/PortableDoor.unity using Guid(da4244a3ab408ae4794b9f2b6bfb8e31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '472b9b80b37a7ec8e1acda4747df222e') in 0.000404 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.011999 seconds.
+  path: Assets/Samples/HoloKit Unity SDK/0.5.0/AR Background Video Enhancement/Scenes/ARBackgroundVideoEnhancement.unity
+  artifactKey: Guid(8173e91a70fd140328c4a73f47c8b5ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/HoloKit Unity SDK/0.5.0/AR Background Video Enhancement/Scenes/ARBackgroundVideoEnhancement.unity using Guid(8173e91a70fd140328c4a73f47c8b5ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98a085e0d227372031083f6c05e436a6') in 0.000361 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.003786 seconds.
+  path: Assets/Samples/HoloKit Unity SDK/0.5.0/Gaze Gesture Interaction/Scenes
+  artifactKey: Guid(42f94ee20af0348b0a280ef1089c527d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/HoloKit Unity SDK/0.5.0/Gaze Gesture Interaction/Scenes using Guid(42f94ee20af0348b0a280ef1089c527d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '931a11aa05d9857890d996e57d3ae089') in 0.000321 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.001911 seconds.
+  path: Assets/Samples/HoloKit Unity SDK/0.5.0/Reset World Origin/Scenes
+  artifactKey: Guid(790fb90bb56f544858cc1df761869018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/HoloKit Unity SDK/0.5.0/Reset World Origin/Scenes using Guid(790fb90bb56f544858cc1df761869018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ed9180f06ade6815494d04193c8d4f2') in 0.000472 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.005444 seconds.
+  path: Assets/Scripts/PO_Sway.cs
+  artifactKey: Guid(857cfa88b0cca9b4a8dffc4101548ff6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PO_Sway.cs using Guid(857cfa88b0cca9b4a8dffc4101548ff6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9dfac57ff9139e0e7a8d0a618004b142') in 0.000332 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.003424 seconds.
+  path: Assets/Samples/HoloKit Unity SDK/0.5.0/Reset World Origin/Scripts/ResetWorldOriginUIController.cs
+  artifactKey: Guid(0b33cee131db24675855bbd5c3dddb32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/HoloKit Unity SDK/0.5.0/Reset World Origin/Scripts/ResetWorldOriginUIController.cs using Guid(0b33cee131db24675855bbd5c3dddb32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb221d9cd141971d20d6afbf758b8fc8') in 0.000353 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.001226 seconds.
+  path: Assets/model/FISHJUMP.anim
+  artifactKey: Guid(e67cc8f9b3cba447d81ed9a08e79806f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/model/FISHJUMP.anim using Guid(e67cc8f9b3cba447d81ed9a08e79806f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cc7c3a06825604ba829024280f096fb') in 0.001382 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.002798 seconds.
+  path: Assets/Samples/HoloKit Unity SDK/0.5.0/Hand Gesture Recognition/Scenes
+  artifactKey: Guid(750d8f4e6eb70474587a4bd26bab9fc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/HoloKit Unity SDK/0.5.0/Hand Gesture Recognition/Scenes using Guid(750d8f4e6eb70474587a4bd26bab9fc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58957d5326c0f399e4eca17a202b8fc3') in 0.000334 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.012696 seconds.
+  path: Assets/Samples/HoloKit Unity SDK/0.5.0/Phone Model Specs Calibration/Scripts/PhoneModelSpecsCalibrationUI.cs
+  artifactKey: Guid(bef335b1be3d343269fa83f47b37f56c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/HoloKit Unity SDK/0.5.0/Phone Model Specs Calibration/Scripts/PhoneModelSpecsCalibrationUI.cs using Guid(bef335b1be3d343269fa83f47b37f56c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e8c94055ac129773b0181e847272995') in 0.000379 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.001273 seconds.
+  path: Assets/Samples/Shader Graph/14.0.9/Node Reference/Math
+  artifactKey: Guid(6c9f7fe195e46b94093e1ed4fbc7cb34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Shader Graph/14.0.9/Node Reference/Math using Guid(6c9f7fe195e46b94093e1ed4fbc7cb34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be7e169ad564f7138e6028486a57f3d0') in 0.000437 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.004168 seconds.
+  path: Assets/Samples/Shader Graph/14.0.9/Node Reference/Utility
+  artifactKey: Guid(8cde92ffbd277fc4eaccacf5cf57d426) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Shader Graph/14.0.9/Node Reference/Utility using Guid(8cde92ffbd277fc4eaccacf5cf57d426) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd55f9a123298ab3a806be45cf10f383d') in 0.000416 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.009152 seconds.
+  path: Assets/Scripts/PortableObject.cs
+  artifactKey: Guid(3981d11f64353df4197f91cd32dd57c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PortableObject.cs using Guid(3981d11f64353df4197f91cd32dd57c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32805693da5eb96a40e11de141d31f24') in 0.000392 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.014764 seconds.
+  path: Assets/Samples/HoloKit Unity SDK/0.5.0/Phone Model Specs Calibration/Prefabs
+  artifactKey: Guid(a5dcc4cfeb0d944cd861829e35762188) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/HoloKit Unity SDK/0.5.0/Phone Model Specs Calibration/Prefabs using Guid(a5dcc4cfeb0d944cd861829e35762188) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2d1c6b8b6f5a680d7e576ac5819714e') in 0.000531 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.006576 seconds.
+  path: Assets/Chinese Painting URP/Asset
+  artifactKey: Guid(e5cefda14c2dca249b2c61b71c350102) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Chinese Painting URP/Asset using Guid(e5cefda14c2dca249b2c61b71c350102) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f303ce4909c0419c5b9bda3101aec8d') in 0.000622 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.013800 seconds.
+  path: Assets/Chinese Painting URP/Asset/Prefab/Rock_Green_011.prefab
+  artifactKey: Guid(190358349c14b0f4c9848b8aa4dc461f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Chinese Painting URP/Asset/Prefab/Rock_Green_011.prefab using Guid(190358349c14b0f4c9848b8aa4dc461f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33fa7e5578e9c3d246cae9ff0660894b') in 0.128184 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 45
+========================================================================
+Received Import Request.
+  Time since last request: 0.017637 seconds.
+  path: Assets/Samples/HoloKit Unity SDK/0.5.0/Gaze Interaction/Scripts/CircleInteractableController.cs
+  artifactKey: Guid(5cf4e58496c424e8e8ff81ae087d0fcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/HoloKit Unity SDK/0.5.0/Gaze Interaction/Scripts/CircleInteractableController.cs using Guid(5cf4e58496c424e8e8ff81ae087d0fcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd350905b0bf52121ff132e15c29da577') in 0.001131 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.022749 seconds.
+  path: Assets/Chinese Painting URP/Scenes/Scene Asset
+  artifactKey: Guid(e86e0b0b9ed5e0042bd0e2983350441f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Chinese Painting URP/Scenes/Scene Asset using Guid(e86e0b0b9ed5e0042bd0e2983350441f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f580dc785bbd727851ec7842d0a5762d') in 0.000384 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.001068 seconds.
+  path: Assets/Samples/HoloKit Unity SDK/0.5.0/Reset World Origin/Scripts
+  artifactKey: Guid(04b66012d21bc4402988c443896dac33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/HoloKit Unity SDK/0.5.0/Reset World Origin/Scripts using Guid(04b66012d21bc4402988c443896dac33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '559d7331677815853e62475976c2910f') in 0.000501 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.019912 seconds.
+  path: Assets/Chinese Painting URP/Asset/Texture
+  artifactKey: Guid(f579132bcdbeaae449e9022c598abeb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Chinese Painting URP/Asset/Texture using Guid(f579132bcdbeaae449e9022c598abeb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '423ca57dd02691da0efbe4cbf7635424') in 0.000561 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.024300 seconds.
+  path: Assets/Samples/HoloKit Unity SDK/0.5.0/Gaze Gesture Interaction/Scripts/CubeInteractableController.cs
+  artifactKey: Guid(e4c42d5acf0e6435c85f921b318bfc7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/HoloKit Unity SDK/0.5.0/Gaze Gesture Interaction/Scripts/CubeInteractableController.cs using Guid(e4c42d5acf0e6435c85f921b318bfc7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f257c18fcc2dc96cf05b89777e878eb') in 0.000543 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.004887 seconds.
+  path: Assets/Scripts/PO_Rotation.cs
+  artifactKey: Guid(d0edf9217152c9049935fe5702507087) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PO_Rotation.cs using Guid(d0edf9217152c9049935fe5702507087) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bac3415b5697f5da5d3c4b3f593806bf') in 0.000563 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.021389 seconds.
+  path: Assets/Samples/HoloKit Unity SDK/0.5.0/Gaze Interaction/Textures
+  artifactKey: Guid(43f75fed4d20c4ae1ad4bf6e3fa46d06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/HoloKit Unity SDK/0.5.0/Gaze Interaction/Textures using Guid(43f75fed4d20c4ae1ad4bf6e3fa46d06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dffd573e6737e43dfb34c660e7190423') in 0.000530 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.007408 seconds.
+  path: Assets/XR/UserSimulationSettings
+  artifactKey: Guid(ff63329de9394428da551ae649c1236a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XR/UserSimulationSettings using Guid(ff63329de9394428da551ae649c1236a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46f43842d61cd6813bc1f68fa06b7160') in 0.000557 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.004231 seconds.
+  path: Assets/model/New Animator Controller.controller
+  artifactKey: Guid(7f53557693d334020b1d26e98cfe6208) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/model/New Animator Controller.controller using Guid(7f53557693d334020b1d26e98cfe6208) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4703d154c8fa4dddeed045901196b57') in 0.007843 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.003456 seconds.
+  path: Assets/Samples/HoloKit Unity SDK/0.5.0/Hand Gesture Recognition/Scripts
+  artifactKey: Guid(ed179567bcaee49458fd1c37953d0f73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/HoloKit Unity SDK/0.5.0/Hand Gesture Recognition/Scripts using Guid(ed179567bcaee49458fd1c37953d0f73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3aeb8e9d6f3a0dad122147bcf7e84b10') in 0.000511 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.034540 seconds.
+  path: Assets/Samples/HoloKit Unity SDK/0.5.0/Phone Model Specs Calibration/Scripts
+  artifactKey: Guid(86d1bc999812c472faf68fa26ef3f0b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/HoloKit Unity SDK/0.5.0/Phone Model Specs Calibration/Scripts using Guid(86d1bc999812c472faf68fa26ef3f0b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83f7967b4b5ae62e5aec7ff8bf6f8cd3') in 0.000378 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.002842 seconds.
+  path: Assets/Samples/HoloKit Unity SDK/0.5.0/Glowing Orbs/Scenes/GlowingOrbs.unity
+  artifactKey: Guid(99c9720ab356a0642a771bea13969a05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/HoloKit Unity SDK/0.5.0/Glowing Orbs/Scenes/GlowingOrbs.unity using Guid(99c9720ab356a0642a771bea13969a05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f719f287a400be3b90d0bd7fc282aa90') in 0.000393 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.001361 seconds.
+  path: Assets/Samples/HoloKit Unity SDK/0.5.0/Stereoscopic Rendering/Scenes/StereoscopicRendering.unity
+  artifactKey: Guid(9034993a8ad8343989ffd04d6bf84577) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/HoloKit Unity SDK/0.5.0/Stereoscopic Rendering/Scenes/StereoscopicRendering.unity using Guid(9034993a8ad8343989ffd04d6bf84577) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3552479bd7f3c542d01dec405ad107c3') in 0.000378 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.028875 seconds.
+  path: Assets/Samples/Shader Graph/14.0.9/Node Reference/Channel
+  artifactKey: Guid(b56dc81847f52e948bc265c2215242da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Shader Graph/14.0.9/Node Reference/Channel using Guid(b56dc81847f52e948bc265c2215242da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0990c7f4a8893846866c45f31d12e479') in 0.000361 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.015136 seconds.
+  path: Assets/Samples/HoloKit Unity SDK/0.5.0/Gaze Interaction/Scripts/GazeAndDwellButtonController.cs
+  artifactKey: Guid(42891248472fd40eba053700aaab757d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/HoloKit Unity SDK/0.5.0/Gaze Interaction/Scripts/GazeAndDwellButtonController.cs using Guid(42891248472fd40eba053700aaab757d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e8437b30e95185818fd38d26fb11277') in 0.000357 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.000963 seconds.
+  path: Assets/Samples/HoloKit Unity SDK/0.5.0/AR Background Video Enhancement/Scripts
+  artifactKey: Guid(2985843bbc23b49c49d98cf0af76ed1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/HoloKit Unity SDK/0.5.0/AR Background Video Enhancement/Scripts using Guid(2985843bbc23b49c49d98cf0af76ed1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8fa0bee65819e7624ba5207ec197776') in 0.000357 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.003943 seconds.
+  path: Assets/Samples/Shader Graph
+  artifactKey: Guid(805cdc4ae5bf041bdb4faa59a057e5ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Shader Graph using Guid(805cdc4ae5bf041bdb4faa59a057e5ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d2336c9bc80f368aa54cf6a4eff92a7') in 0.000371 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.004799 seconds.
+  path: Assets/Chinese Painting URP/Asset/Prefab
+  artifactKey: Guid(59ad181dc00de6d44b273ca7dff1719c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Chinese Painting URP/Asset/Prefab using Guid(59ad181dc00de6d44b273ca7dff1719c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4950dd41ed6a9506086c208fcc83c52') in 0.000331 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.004186 seconds.
+  path: Assets/Samples/HoloKit Unity SDK/0.5.0/Gaze Interaction/Scripts
+  artifactKey: Guid(28208ddc8f62449d19d21bf7fd922b7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/HoloKit Unity SDK/0.5.0/Gaze Interaction/Scripts using Guid(28208ddc8f62449d19d21bf7fd922b7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4c60b3ec1a38ba60605040202ab4451') in 0.000435 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.008978 seconds.
+  path: Assets/Samples/HoloKit Unity SDK/0.5.0/AR Background Video Enhancement/Scenes
+  artifactKey: Guid(d95ca2a20e7a74276a88b5586715cd4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/HoloKit Unity SDK/0.5.0/AR Background Video Enhancement/Scenes using Guid(d95ca2a20e7a74276a88b5586715cd4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7c896f1af2b5b16b8d6c76eed7ebf14') in 0.000505 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.014681 seconds.
+  path: Assets/Chinese Painting URP/Scenes/Demo 1.unity
+  artifactKey: Guid(c1e21d1d16ee6a842ade280da9b3ba13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Chinese Painting URP/Scenes/Demo 1.unity using Guid(c1e21d1d16ee6a842ade280da9b3ba13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d7ce3b32f80d81306add795bc52a62b') in 0.000517 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.011604 seconds.
+  path: Assets/Samples/HoloKit Unity SDK/0.5.0/Hand Tracking/Scenes
+  artifactKey: Guid(33f351928dd964e838b25b8ab4295481) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/HoloKit Unity SDK/0.5.0/Hand Tracking/Scenes using Guid(33f351928dd964e838b25b8ab4295481) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5ed7d602551f51a03f9f92e39181d68') in 0.000639 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+TcpMessagingSession - receive error
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
