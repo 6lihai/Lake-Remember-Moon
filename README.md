@@ -9,57 +9,45 @@ https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-
 
 
 
-# 简介Brief introduction
+# Brief introduction
 回忆旧时西湖情景，进入探索场景后，通过交互游戏获得线索，完成记忆拼图。希望通过新型有趣的交互玩法，帮助大家在游览的过程中，以事件还原的方式，了解该地的文化、过去发生的故事。
 Reminisce about the old West Lake scene, enter the exploration scene, and get clues through interactive games to complete the memory puzzle. It is hoped that through the new and interesting interactive gameplay, we can help everyone understand the culture and stories of the past in the way of event restoration in the process of visiting.
 
 
-## 前期：Prophase:
-团队讨论（确定主题、内容、大概的交互形式）
-考察西湖实景作业区域大小
-记录可交互标志建筑物（一般选择静止不动的实体物，避免液体、植物等有机物）
-根据标志物绘制概念图
+## Prophase:
 Team discussion (determine the topic, content, general form of interaction)
 Investigate the size of the real operation area of West Lake
 Record buildings that can be marked interactively (generally choose stationary physical objects, avoid organic matter such as liquids and plants)
 Draw a concept map based on markers
 
 
-## 中期：Medium term:
-时间规划：Timeline:
-
+## Medium term:
+### Timeline:
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-01%2022.53.13.png">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-01%2022.53.13.png">
  <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-01%2022.53.13.png">
 </picture>
 
-确定交互形式，游戏的交互不宜过于多样
-确定场地
-确定情景内容
-划定分工（明确的分工可以提高工作速度，但是过于单一的分工无法接触到所有工作流程，建议大家每个流程都体验一下，找到一个擅长且感兴趣的继续做。）
 Determine the form of interaction, and the interaction of the game should not be too diverse
 Determine the site
 Determine the content of the situation
 Delineate the division of labor (a clear division of labor can improve the speed of work, but too a single division of labor can not touch all the work processes, it is recommended that everyone experience each process, find a good and interested to continue to do.) ）
 
 
-## 终期：Termination:
-推进工作流程
-根据实际能力进行整改和方案调整
+## Termination:
 Advance workflows
 Carry out rectification and program adjustment according to actual capabilities
 
 
 ## 未来future
-继续修改完善改方案，根据故事将场景，交互内容进行优化，在完善的情况下继续更新系列场景。在提升能力后，多加调研，了解游客需求，开辟一些新的场景，后续可能会更新一些情景更强，更加身临其境的故事场景。
 Continue to modify and improve the plan, optimize the scene and interactive content according to the story, and continue to update the series of scenes in the case of improvement. After improving the ability, do more research to understand the needs of tourists, open up some new scenes, and may update some stronger and more immersive story scenes in the future.
 
 
 
 
-# 策划mastermind
-## 前期prophase
+# Mastermind
+## Prophase
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%9C%AA%E6%A0%87%E9%A2%98-3.png">
@@ -84,8 +72,7 @@ Continue to modify and improve the plan, optimize the scene and interactive cont
 </picture>
 
 
-## shader渲染管线
-Shader render pipeline
+## Shader render pipeline
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-20%2015.06.37.png">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-20%2015.06.37.png">
@@ -95,7 +82,7 @@ Shader render pipeline
 
 
 
-# 叙事narrative
+# Narrative
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-20%2015.01.00.png">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-20%2015.01.00.png">
@@ -116,7 +103,7 @@ Shader render pipeline
 
 
 
-## 地编（行走路线及项目体验流程 Ground compilation (walking route and project experience process)
+## Ground compilation (walking route and project experience process)
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E5%9C%B0%E7%BC%96.png">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E5%9C%B0%E7%BC%96.png">
@@ -126,9 +113,7 @@ Shader render pipeline
 The main settings of this scene are: 1️⃣ Enter the portal - 2️⃣ Fish jumping interactive animation (recognize the gesture of opening five fingers 👋 and wave the fish to jump out from the bottom) - 3️⃣ Light the three pools to trigger the fireworks effect (recognize the fireworks that appear with the tentacle gesture 👆, and the program recognizes the fireworks effect of the three pools of flames gathering and leaping upwards after the three devices are lit) - ⃣ 4️Get the clue (after finding the position according to the sound volume, get the clue by pinching your fingers 👌, and the clue is the key to open the portal (out)) - 5️⃣ Exit the portal (after recognizing the clue, confirm the gesture 👌 to open the final portal and return to the real world)
 
 
-## 场地：Site:
-
-在地编设计当中，我们根据人物在实地场景可活动的范围大小，进行了较为合适的运动路径的设计。由于我们的实景路径较窄所以需要相应的在场景设计中约束人们可以行走的范围，技巧：1、可以用虚拟实体进行遮挡。2、提升地平线高度使用户到达边界感觉到恐高。
+## Site:
 In the design of the ground program, we according to the characters in the field scene can be active in the scope of the size of the design of a more appropriate movement path. Because our real scene path is narrower, so we need to correspondingly constrain the scope of people can walk in the scene design, skills: 1, you can use the virtual entity to cover up. 2, elevate the height of the horizon so that the user arrives at the border to feel afraid of heights.
 
 <picture>
@@ -136,15 +121,15 @@ In the design of the ground program, we according to the characters in the field
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%9C%AA%E6%A0%87%E9%A2%98-2.png">
  <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%9C%AA%E6%A0%87%E9%A2%98-2.png">
 </picture>
-Tips：请多次实验你的应用程序，进行相对应的调整可以在场景中放置两个叠加在一起的原始尺寸的正方体（大约一个人的高度和大小）预估你的场景大小，以免过大或过小。
+
 Tips: Please experiment with your application several times and make adjustments accordingly You can place two original-sized squares stacked on top of each other in your scene (about the height and size of a person) Pre-estimate the size of your scene so that it is not too big or too small.
 
 
 
 
-# 程序员 programmer
+# Programmer
 ## HoloKit
-### 手部追踪  hand tracking
+### Hand tracking
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-20%2018.11.57.png">
@@ -152,12 +137,10 @@ Tips: Please experiment with your application several times and make adjustments
  <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-20%2018.11.57.png">
 </picture>
 
-“Hand Tracking Manager”需要深度信息来计算 3D 手部位置，因此将“AROcclusionManager“组件添加到“HoloKit Camera”游戏对象并相应地调整其设置。推荐跟踪一只手增加运行速度。
-在我们的项目中主要运用在“小鱼跳跃交互”当中。
-The Hand Tracking Manager requires depth information to calculate the 3D hand position, so add the AROcclusionManager component to the HoloKit Camera GameObject and adjust its settings accordingly. It is recommended to track one hand to increase the running speed.
+The "Hand Tracking Manager" requires depth information to calculate the 3D hand position, so add the "AROcclusionManager" component to the "HoloKit Camera" GameObject and adjust its settings accordingly. It is recommended to track one hand to increase the running speed.
 In our project, it is mainly used in the "small fish jumping interaction".
 
-### 手势识别 Gesture recognition
+### Gesture recognition
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/IMG_7991%202.PNG">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/IMG_7991%202.PNG">
@@ -176,7 +159,7 @@ Tips：手势识别功能仅在 iOS 14.0 或更高版本的设备上可用。您
 
 To take advantage of gesture recognition, add a HandGestureRecognitionManager to your scene. In the project, the index finger click confirmation and two-finger pinch confirmation are mainly used to interact.
 In our projects, we use them in "Lighting the Flames" and "Collecting Clues".
-Tip: The gesture recognition feature is only available on devices with iOS 14.0 or later. You can use both hand tracking and gesture recognition by adding both the Hand Tracking Manager and HandGestureRecognitionManager components to your scene.
+Tip: The gesture recognition feature is only available on devices with iOS 14.0 or later. You can use both hand tracking and gesture recognition by adding both the Hand Tracking Manager and "HandGestureRecognitionManager" components to your scene.
 
 
 ## 交互技术Interactive technology
