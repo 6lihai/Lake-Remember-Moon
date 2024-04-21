@@ -10,7 +10,6 @@ https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-
 
 
 # Brief introduction
-回忆旧时西湖情景，进入探索场景后，通过交互游戏获得线索，完成记忆拼图。希望通过新型有趣的交互玩法，帮助大家在游览的过程中，以事件还原的方式，了解该地的文化、过去发生的故事。
 Reminisce about the old West Lake scene, enter the exploration scene, and get clues through interactive games to complete the memory puzzle. It is hoped that through the new and interesting interactive gameplay, we can help everyone understand the culture and stories of the past in the way of event restoration in the process of visiting.
 
 
@@ -63,8 +62,8 @@ Continue to modify and improve the plan, optimize the scene and interactive cont
 </picture>
 
 
-# 美术
-## 场景
+# Fine arts:
+## Scenario:
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-19%2022.58.04.png">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-19%2022.58.04.png">
@@ -153,18 +152,15 @@ In our project, it is mainly used in the "small fish jumping interaction".
  <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/IMG_7992%202.PNG">
 </picture>
 
-要利用手势识别，请添加“HandGestureRecognitionManager”到场景中。项目中主要使用食指点击确认和双指捏合确认的方式交互。
-在我们的项目中分别运用在“点燃火苗”和“收集线索”当中。
-Tips：手势识别功能仅在 iOS 14.0 或更高版本的设备上可用。您可以同时使用手部跟踪和手势识别，只需将两者“Hand Tracking Manager”和“HandGestureRecognitionManager”组件添加到场景中即可。
 
 To take advantage of gesture recognition, add a HandGestureRecognitionManager to your scene. In the project, the index finger click confirmation and two-finger pinch confirmation are mainly used to interact.
 In our projects, we use them in "Lighting the Flames" and "Collecting Clues".
 Tip: The gesture recognition feature is only available on devices with iOS 14.0 or later. You can use both hand tracking and gesture recognition by adding both the Hand Tracking Manager and "HandGestureRecognitionManager" components to your scene.
 
 
-## 交互技术Interactive technology
-### 传送门Portals
-主要和老师沟通并和GitHub Copilot进行合作。Mainly communicate with teachers and cooperate with GitHub Copilot.
+## Interactive technology
+### Portals
+Mainly communicate with teachers and cooperate with GitHub Copilot.
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-20%2014.16.52.png">
@@ -178,10 +174,9 @@ Tip: The gesture recognition feature is only available on devices with iOS 14.0 
  <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-20%2014.17.05.png">
 </picture>
 
-“MainCamera”代表了我们在空间中的坐标，通过“if”语句识别“MainCamera”的坐标位置判断玩家是否与“Door”进行了交互。
 "MainCamera" represents our coordinates in space, and the "if" statement identifies the coordinate position of "MainCamera" to determine whether the player has interacted with "Door".
 
-### 传送门工作逻辑：
+### Portal working logic:
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-19%2023.48.05.png">
@@ -189,7 +184,6 @@ Tip: The gesture recognition feature is only available on devices with iOS 14.0 
  <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-19%2023.48.05.png">
 </picture>
 
-第一步需要确定好你需要遮住的部分，区分出“门前”与“门后“的图层，这将影响到后续的显示效果，（当发现缺少物体的时候，可以返回图层查看，并且确定每个物体挂在对应的图层上）
 The first step is to determine the part you need to cover, distinguish the layers "in front of the door" and "behind the door", which will affect the subsequent display effect, (when you find that there is a missing object, you can go back to the layer to view, and make sure that each object is hung on the corresponding layer)
 
 <picture>
@@ -198,7 +192,6 @@ The first step is to determine the part you need to cover, distinguish the layer
  <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-19%2023.48.21.png">
 </picture>
 
-当你的场景中有透明物体时，你需要谨慎的选择“Depth Texture Mode”中的三个选项，一般情况下都可以选择“After Opaques”，这将影响后续透明物体是否能显现出来。
 When you have transparent objects in your scene, you need to carefully select the three options in "Depth Texture Mode", and in most cases you can choose "After Opaques", which will affect whether the subsequent transparent objects will be visible.
 
 
@@ -220,7 +213,6 @@ In our scene, because there are transparent objects and opaque objects, we hang 
  <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-19%2023.59.05.png">
 </picture>
 
-为了在虚拟空间中展示出手势交互，我们需要一个人体遮罩（“AR Occlusion Manager”）挂在“Main Camera”上，需要注意的一点，该遮罩必须挂在最小的子集照相机上，否则无法启用该效果。
 In order to demonstrate gesture interaction in the virtual space, we need a body mask (the "AR Occlusion Manager") to hang on the "Main Camera", and it is important to note that the mask must be hung on the smallest subset of the camera, otherwise the effect cannot be enabled.
 
 <picture>
@@ -229,40 +221,34 @@ In order to demonstrate gesture interaction in the virtual space, we need a body
  <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-20%2000.00.10.png">
 </picture>
 
-“AR Occlusion Manager”设置如表所示，为了使设备上的程序可以较快的的运转，建议“Human Segmentation Stencil Mode”选用“Medium”，“Human Segmentation Depth Mode”选用“Fastest”。最后在“Occlusion Preference Mode”上选择“Prefer Human Occlusion”即可显现人体部分。若你的场景有别的特殊需求，例如“环境”，可以选择“Prefer Environment Occlusion”。
 The AR Occlusion Manager settings are as shown in the table, and in order to make the program on the device run quickly, it is recommended to select "Medium" for "Human Segmentation Stencil Mode" and "Fastest" for "Human Segmentation Depth Mode". Finally, select "Prefer Human Occlusion" on "Occlusion Preference Mode" to reveal the human body. If your scene has other special requirements, such as "Environment", you can select "Prefer Environment Occlusion".
 
 
 
-# 其他学习参考Additional Learning References
-### 声音远近The sound is far and near
+# Additional Learning References
+### The sound is far and near
 https://blog.csdn.net/LLLLL__/article/details/105968761
 
-### AR隔空手势交互】Unity中基于Manomotion实现隔空手势交互
-（AR Air Gesture Interaction）Unity implements air gesture interaction based on Manomotion
+### （AR Air Gesture Interaction）Unity implements air gesture interaction based on Manomotion
 https://blog.csdn.net/ccaoshangfei/article/details/125812389
 
-### Unity 简单手势识别
-Unity Simple Gesture Recognition
+### Unity Simple Gesture Recognition
 https://blog.csdn.net/weixin_43925843/article/details/105582675
 
-### Unity 中的手势
-Gestures in Unity
+### Gestures in Unity
 https://learn.microsoft.com/zh-cn/windows/mixed-reality/develop/unity/gestures-in-unity
 
-### 手姿势梭鱼鱼
-Hand pose barracuda fish
+### Hand pose barracuda fish
 https://github.com/keijiro/HandPoseBarracuda
 
-# 交互流程Interactive processes
-### 体验流程Experience the process
+# Interactive processes
+### Experience the process
 https://github.com/Tongzhou-Yu/ar-collection-game-holokit-ios
 
-### iOS中基于Holokit SDK的AR收集游戏
-AR collection game based on Holokit SDK in iOS
+### AR collection game based on Holokit SDK in iOS
 https://github.com/Tongzhou-Yu/ar-portal-arfoundation
 
-### 增强现实门户Augmented Reality Portal
+### Augmented Reality Portal
 https://github.com/Tongzhou-Yu/ar-portal-arfoundation-urp
 
 
