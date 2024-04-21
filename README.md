@@ -65,9 +65,9 @@ Continue to modify and improve the plan, optimize the scene and interactive cont
 前期prophase
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="[https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-22%2001.39.57.png]">
- <source media="(prefers-color-scheme: light)" srcset="[https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-22%2001.39.57.png]">
- <img alt="YOUR-ALT-TEXT" src="[https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-22%2001.39.57.png]">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%9C%AA%E6%A0%87%E9%A2%98-3.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%9C%AA%E6%A0%87%E9%A2%98-3.png">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%9C%AA%E6%A0%87%E9%A2%98-3.png">
 </picture>
 
 
