@@ -116,8 +116,7 @@ Shader render pipeline
 
 
 
-## 地编（行走路线及项目体验流程）
-Ground compilation (walking route and project experience process)
+## 地编（行走路线及项目体验流程 Ground compilation (walking route and project experience process)
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E5%9C%B0%E7%BC%96.png">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E5%9C%B0%E7%BC%96.png">
@@ -127,8 +126,7 @@ Ground compilation (walking route and project experience process)
 The main settings of this scene are: 1️⃣ Enter the portal - 2️⃣ Fish jumping interactive animation (recognize the gesture of opening five fingers 👋 and wave the fish to jump out from the bottom) - 3️⃣ Light the three pools to trigger the fireworks effect (recognize the fireworks that appear with the tentacle gesture 👆, and the program recognizes the fireworks effect of the three pools of flames gathering and leaping upwards after the three devices are lit) - ⃣ 4️Get the clue (after finding the position according to the sound volume, get the clue by pinching your fingers 👌, and the clue is the key to open the portal (out)) - 5️⃣ Exit the portal (after recognizing the clue, confirm the gesture 👌 to open the final portal and return to the real world)
 
 
-## 场地：
-Site:
+## 场地：Site:
 
 在地编设计当中，我们根据人物在实地场景可活动的范围大小，进行了较为合适的运动路径的设计。由于我们的实景路径较窄所以需要相应的在场景设计中约束人们可以行走的范围，技巧：1、可以用虚拟实体进行遮挡。2、提升地平线高度使用户到达边界感觉到恐高。
 In the design of the ground program, we according to the characters in the field scene can be active in the scope of the size of the design of a more appropriate movement path. Because our real scene path is narrower, so we need to correspondingly constrain the scope of people can walk in the scene design, skills: 1, you can use the virtual entity to cover up. 2, elevate the height of the horizon so that the user arrives at the border to feel afraid of heights.
@@ -144,9 +142,9 @@ Tips: Please experiment with your application several times and make adjustments
 
 
 
-# 程序员
+# 程序员 programmer
 ## HoloKit
-### 手部追踪
+### 手部追踪  hand tracking
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-20%2018.11.57.png">
@@ -159,7 +157,7 @@ Tips: Please experiment with your application several times and make adjustments
 The Hand Tracking Manager requires depth information to calculate the 3D hand position, so add the AROcclusionManager component to the HoloKit Camera GameObject and adjust its settings accordingly. It is recommended to track one hand to increase the running speed.
 In our project, it is mainly used in the "small fish jumping interaction".
 
-### 手势识别
+### 手势识别 Gesture recognition
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/IMG_7991%202.PNG">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/IMG_7991%202.PNG">
@@ -254,34 +252,34 @@ The AR Occlusion Manager settings are as shown in the table, and in order to mak
 
 
 # 其他学习参考Additional Learning References
-声音远近The sound is far and near
+### 声音远近The sound is far and near
 https://blog.csdn.net/LLLLL__/article/details/105968761
 
-AR隔空手势交互】Unity中基于Manomotion实现隔空手势交互
+### AR隔空手势交互】Unity中基于Manomotion实现隔空手势交互
 （AR Air Gesture Interaction）Unity implements air gesture interaction based on Manomotion
 https://blog.csdn.net/ccaoshangfei/article/details/125812389
 
-Unity 简单手势识别
+### Unity 简单手势识别
 Unity Simple Gesture Recognition
 https://blog.csdn.net/weixin_43925843/article/details/105582675
 
-Unity 中的手势
+### Unity 中的手势
 Gestures in Unity
 https://learn.microsoft.com/zh-cn/windows/mixed-reality/develop/unity/gestures-in-unity
 
-手姿势梭鱼鱼
+### 手姿势梭鱼鱼
 Hand pose barracuda fish
 https://github.com/keijiro/HandPoseBarracuda
 
-交互流程Interactive processes
-体验流程Experience the process
+# 交互流程Interactive processes
+### 体验流程Experience the process
 https://github.com/Tongzhou-Yu/ar-collection-game-holokit-ios
 
-iOS中基于Holokit SDK的AR收集游戏
+### iOS中基于Holokit SDK的AR收集游戏
 AR collection game based on Holokit SDK in iOS
 https://github.com/Tongzhou-Yu/ar-portal-arfoundation
 
-增强现实门户Augmented Reality Portal
+### 增强现实门户Augmented Reality Portal
 https://github.com/Tongzhou-Yu/ar-portal-arfoundation-urp
 
 
