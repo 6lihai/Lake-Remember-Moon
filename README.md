@@ -39,7 +39,7 @@ Advance workflows
 Carry out rectification and program adjustment according to actual capabilities
 
 
-## 未来future
+## Future：
 Continue to modify and improve the plan, optimize the scene and interactive content according to the story, and continue to update the series of scenes in the case of improvement. After improving the ability, do more research to understand the needs of tourists, open up some new scenes, and may update some stronger and more immersive story scenes in the future.
 
 
@@ -200,11 +200,10 @@ When you have transparent objects in your scene, you need to carefully select th
  <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-19%2023.47.41.png">
 </picture>
 
-在我们的场景中，因为存在透明物体和不透明物体，所以我们在每种物体所归属的图层挂上两种“Render Objects”，保证属于一个图层中透明物和不透明物都能够显现出来。
 In our scene, because there are transparent objects and opaque objects, we hang two kinds of "Render Objects" on the layer to which each object belongs, so that both transparent and opaque objects can be displayed in one layer.
 
 
-### 相机人像显示Camera portrait display
+### Camera portrait display
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-19%2023.59.05.png">
