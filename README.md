@@ -253,5 +253,5 @@ https://github.com/Tongzhou-Yu/ar-portal-arfoundation-urp
 ### Our Contributors ✨
 
 <a href="https://github.com/mfts/papermark/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=mfts/papermark" />
+  <img src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%9C%AA%E6%A0%87%E9%A2%98-1.png" />
 </a>
