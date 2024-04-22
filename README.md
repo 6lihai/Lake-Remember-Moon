@@ -41,7 +41,7 @@ Delineate the division of labor (a clear division of labor can improve the speed
 Continue to modify and improve the plan, optimize the scene and interactive content according to the story, and continue to update the series of scenes in the case of improvement. After improving the ability, do more research to understand the needs of tourists, open up some new scenes, and may update some stronger and more immersive story scenes in the future.
 
 
-# An overview of the application interface：
+# An overview of the application interface
 <picture>
  <source media="(prefers-color-scheme: dark)" https://github.com/6lihai/Lake-Remember-Moon/blob/main/picture/iphone1.png">
  <source media="(prefers-color-scheme: light)"https://github.com/6lihai/Lake-Remember-Moon/blob/main/picture/iphone1.png">
@@ -56,7 +56,7 @@ Continue to modify and improve the plan, optimize the scene and interactive cont
 
 The first half is mainly the augmented reality part for players in real scenes, guiding them to their destination according to the map. The second half is mainly for players to enter the virtual scene and interact with our story.
 
-# Art:
+# Art
 ## Overview of the venue:
 <picture>
  <source media="(prefers-color-scheme: dark)" https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/map5.png">
@@ -73,7 +73,7 @@ https://github.com/6lihai/SUCCESS-LAKE/assets/163080298/b97694c9-13a7-4e73-950f-
 
 
 
-# Narrative ：
+# Narrative 
 <picture>
  <source media="(prefers-color-scheme: dark)" https://github.com/6lihai/Lake-Remember-Moon/blob/main/picture/story5.png">
  <source media="(prefers-color-scheme: light)" https://github.com/6lihai/Lake-Remember-Moon/blob/main/picture/story5.png">
@@ -111,7 +111,7 @@ In the design of the ground program, we according to the characters in the field
 
 
 # Programmer
-## Shader render pipeline
+## Shader render pipeline：
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/procedure5.png">
  <source media="(prefers-color-scheme: light)" https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/procedure5.png">
@@ -119,8 +119,8 @@ In the design of the ground program, we according to the characters in the field
 </picture>
 ⭕️Tips：Not only do you need to set up your package in the scene, but you also need to hook it up in the Project Settings to show this effect in the world!
 
-## HoloKit
-### Hand tracking
+## HoloKit：
+### Hand tracking：
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/procedure6.png">
@@ -216,29 +216,29 @@ The AR Occlusion Manager settings are as shown in the table, and in order to mak
 
 
 # Additional Learning References
-### The sound is far and near
+### The sound is far and near：
 https://blog.csdn.net/LLLLL__/article/details/105968761
 
-### （AR Air Gesture Interaction）Unity implements air gesture interaction based on Manomotion
+### （AR Air Gesture Interaction）Unity implements air gesture interaction based on Manomotion：
 https://blog.csdn.net/ccaoshangfei/article/details/125812389
 
-### Unity Simple Gesture Recognition
+### Unity Simple Gesture Recognition：
 https://blog.csdn.net/weixin_43925843/article/details/105582675
 
-### Gestures in Unity
+### Gestures in Unity：
 https://learn.microsoft.com/zh-cn/windows/mixed-reality/develop/unity/gestures-in-unity
 
-### Hand pose barracuda fish
+### Hand pose barracuda fish：
 https://github.com/keijiro/HandPoseBarracuda
 
 # Interactive processes
-### Experience the process
+### Experience the process：
 https://github.com/Tongzhou-Yu/ar-collection-game-holokit-ios
 
-### AR collection game based on Holokit SDK in iOS
+### AR collection game based on Holokit SDK in iOS：
 https://github.com/Tongzhou-Yu/ar-portal-arfoundation
 
-### Augmented Reality Portal
+### Augmented Reality Portal：
 https://github.com/Tongzhou-Yu/ar-portal-arfoundation-urp
 
 
