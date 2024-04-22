@@ -268,3 +268,9 @@ https://github.com/Tongzhou-Yu/ar-portal-arfoundation-urp
 <a href="https://github.com/mfts/papermark/graphs/contributors">
   <img src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/author.png" />
 </a>
+
+### Our Guiders ✨
+
+<a href="https://github.com/mfts/papermark/graphs/contributors">
+  <img src="https://github.com/6lihai/Lake-Remember-Moon/blob/main/picture/Guiders.png" />
+</a>
