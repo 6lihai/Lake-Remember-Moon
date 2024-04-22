@@ -191,26 +191,26 @@ Mainly communicate with teachers and cooperate with GitHub Copilot.
 ### Portal working logic:
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-19%2023.48.05.png">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-19%2023.48.05.png">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-19%2023.48.05.png">
+ <source media="(prefers-color-scheme: dark)"https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/procedure1.png">
+ <source media="(prefers-color-scheme: light)" https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/procedure1.png">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/procedure1.png">
 </picture>
 
 The first step is to determine the part you need to cover, distinguish the layers "in front of the door" and "behind the door", which will affect the subsequent display effect, (when you find that there is a missing object, you can go back to the layer to view, and make sure that each object is hung on the corresponding layer)
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-19%2023.48.21.png">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-19%2023.48.21.png">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-19%2023.48.21.png">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/procedure2.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/procedure2.png">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/procedure2.png">
 </picture>
 
 When you have transparent objects in your scene, you need to carefully select the three options in "Depth Texture Mode", and in most cases you can choose "After Opaques", which will affect whether the subsequent transparent objects will be visible.
 
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-19%2023.47.41.png">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-19%2023.47.41.png">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-19%2023.47.41.png">
+ <source media="(prefers-color-scheme: dark)" https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/procedure8.png">
+ <source media="(prefers-color-scheme: light)" https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/procedure8.png">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/procedure8.png">
 </picture>
 
 In our scene, because there are transparent objects and opaque objects, we hang two kinds of "Render Objects" on the layer to which each object belongs, so that both transparent and opaque objects can be displayed in one layer.
@@ -219,17 +219,17 @@ In our scene, because there are transparent objects and opaque objects, we hang 
 ### Camera portrait display
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-19%2023.59.05.png">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-19%2023.59.05.png">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-19%2023.59.05.png">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/procedure3.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/procedure3.png">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/procedure3.png">
 </picture>
 
 In order to demonstrate gesture interaction in the virtual space, we need a body mask (the "AR Occlusion Manager") to hang on the "Main Camera", and it is important to note that the mask must be hung on the smallest subset of the camera, otherwise the effect cannot be enabled.
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-20%2000.00.10.png">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-20%2000.00.10.png">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-20%2000.00.10.png">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/procedure9.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/procedure9.png">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/procedure9.png">
 </picture>
 
 The AR Occlusion Manager settings are as shown in the table, and in order to make the program on the device run quickly, it is recommended to select "Medium" for "Human Segmentation Stencil Mode" and "Fastest" for "Human Segmentation Depth Mode". Finally, select "Prefer Human Occlusion" on "Occlusion Preference Mode" to reveal the human body. If your scene has other special requirements, such as "Environment", you can select "Prefer Environment Occlusion".
