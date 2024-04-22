@@ -51,21 +51,23 @@ Continue to modify and improve the plan, optimize the scene and interactive cont
  <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/Lake-Remember-Moon/blob/main/picture/iphone3.png">
 </picture>
 
-
+The first half is mainly the augmented reality part for players in real scenes, guiding them to their destination according to the map. The second half is mainly for players to enter the virtual scene and interact with our story.
 
 # Art:
-## Scenario:
+## Overview of the venue:
 <picture>
  <source media="(prefers-color-scheme: dark)" https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/map5.png">
  <source media="(prefers-color-scheme: light)" https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/map5.png">
  <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/map5.png">
 </picture>
 
+
 ## Clue fragments - 1 :
 https://github.com/6lihai/SUCCESS-LAKE/assets/163080298/8bd59ad6-5aba-4f9f-a20a-7f8508a58f4b
 
 ## Clue fragments - 2 :
 https://github.com/6lihai/SUCCESS-LAKE/assets/163080298/b97694c9-13a7-4e73-950f-5fe7669b4140
+
 
 
 # Narrative ：
