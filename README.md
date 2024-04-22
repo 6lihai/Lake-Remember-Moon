@@ -68,7 +68,7 @@ https://github.com/6lihai/SUCCESS-LAKE/assets/163080298/8bd59ad6-5aba-4f9f-a20a-
 https://github.com/6lihai/SUCCESS-LAKE/assets/163080298/b97694c9-13a7-4e73-950f-5fe7669b4140
 
 
-# Narrative
+# Narrative ：
 <picture>
  <source media="(prefers-color-scheme: dark)" https://github.com/6lihai/Lake-Remember-Moon/blob/main/picture/story5.png">
  <source media="(prefers-color-scheme: light)" https://github.com/6lihai/Lake-Remember-Moon/blob/main/picture/story5.png">
@@ -103,8 +103,6 @@ In the design of the ground program, we according to the characters in the field
 </picture>
 
 Tips: Please experiment with your application several times and make adjustments accordingly You can place two original-sized squares stacked on top of each other in your scene (about the height and size of a person) Pre-estimate the size of your scene so that it is not too big or too small.
-
-
 
 
 # Programmer
