@@ -10,6 +10,9 @@
  <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/cover.png">
 </picture>
 
+https://github.com/6lihai/Lake-Remember-Moon/assets/163080298/2f863a91-6e66-4816-b3b9-ab4eb8beb770
+
+
 
 # Brief introduction
 Reminisce about the old West Lake scene, enter the exploration scene, and get clues through interactive games to complete the memory puzzle. It is hoped that through the new and interesting interactive gameplay, we can help everyone understand the culture and stories of the past in the way of event restoration in the process of visiting.
