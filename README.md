@@ -1,12 +1,11 @@
 # SUCCESS-LAKE
 WE want to be succeed with the lake
 
-https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-22%2001.39.57.png
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/WIQ0N0OUvei1OW1h9Z/giphy.gif"/>
-</div>
-
+<picture>
+ <source media="(prefers-color-scheme: dark)" https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-22%2007.50.32.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-22%2007.50.32.png">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-22%2007.50.32.png">
+</picture>
 
 
 # Brief introduction
@@ -62,12 +61,19 @@ Continue to modify and improve the plan, optimize the scene and interactive cont
  <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-19%2022.58.04.png">
 </picture>
 
-
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-19%2022.54.00.png">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-19%2022.54.00.png">
  <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-19%2022.54.00.png">
 </picture>
+
+
+https://github.com/6lihai/SUCCESS-LAKE/assets/163080298/8bd59ad6-5aba-4f9f-a20a-7f8508a58f4b
+
+https://github.com/6lihai/SUCCESS-LAKE/assets/163080298/b97694c9-13a7-4e73-950f-5fe7669b4140
+
+
+
 
 
 ## Shader render pipeline
@@ -108,7 +114,7 @@ Continue to modify and improve the plan, optimize the scene and interactive cont
  <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E5%9C%B0%E7%BC%96.png">
 </picture>
 
-The main settings of this scene are: 1️⃣ Enter the portal - 2️⃣ Fish jumping interactive animation (recognize the gesture of opening five fingers 👋 and wave the fish to jump out from the bottom) - 3️⃣ Light the three pools to trigger the fireworks effect (recognize the fireworks that appear with the tentacle gesture 👆, and the program recognizes the fireworks effect of the three pools of flames gathering and leaping upwards after the three devices are lit) - ⃣ 4️Get the clue (after finding the position according to the sound volume, get the clue by pinching your fingers 👌, and the clue is the key to open the portal (out)) - 5️⃣ Exit the portal (after recognizing the clue, confirm the gesture 👌 to open the final portal and return to the real world)
+The main settings of this scene are: 1️⃣ Enter the portal - 2️⃣ Fish jumping interactive animation (recognize the gesture of opening five fingers 👋 and wave the fish to jump out from the bottom) - 3️⃣ Light the three pools to trigger the fireworks effect (recognize the fireworks that appear with the tentacle gesture 👆, and the program recognizes the fireworks effect of the three pools of flames gathering and leaping upwards after the three devices are lit) - 4️⃣ Get the clue (after finding the position according to the sound volume, get the clue by pinching your fingers 👌, and the clue is the key to open the portal (out)) - 5️⃣ Exit the portal (after recognizing the clue, confirm the gesture 👌 to open the final portal and return to the real world)
 
 
 ## Site:
