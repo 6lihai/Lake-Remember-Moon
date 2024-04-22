@@ -128,9 +128,9 @@ The main settings of this scene are: 1️⃣ Enter the portal - 2️⃣ Fish jum
 In the design of the ground program, we according to the characters in the field scene can be active in the scope of the size of the design of a more appropriate movement path. Because our real scene path is narrower, so we need to correspondingly constrain the scope of people can walk in the scene design, skills: 1, you can use the virtual entity to cover up. 2, elevate the height of the horizon so that the user arrives at the border to feel afraid of heights.
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%9C%AA%E6%A0%87%E9%A2%98-2.png">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%9C%AA%E6%A0%87%E9%A2%98-2.png">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%9C%AA%E6%A0%87%E9%A2%98-2.png">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/Tip.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/Tip.png">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/Tip.png">
 </picture>
 
 Tips: Please experiment with your application several times and make adjustments accordingly You can place two original-sized squares stacked on top of each other in your scene (about the height and size of a person) Pre-estimate the size of your scene so that it is not too big or too small.
@@ -143,9 +143,9 @@ Tips: Please experiment with your application several times and make adjustments
 ### Hand tracking
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-20%2018.11.57.png">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-20%2018.11.57.png">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-20%2018.11.57.png">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/procedure6.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/procedure6.png">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/procedure6.png">
 </picture>
 
 The "Hand Tracking Manager" requires depth information to calculate the 3D hand position, so add the "AROcclusionManager" component to the "HoloKit Camera" GameObject and adjust its settings accordingly. It is recommended to track one hand to increase the running speed.
@@ -153,15 +153,15 @@ In our project, it is mainly used in the "small fish jumping interaction".
 
 ### Gesture recognition
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/IMG_7991%202.PNG">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/IMG_7991%202.PNG">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/IMG_7991%202.PNG">
+ <source media="(prefers-color-scheme: dark)" https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/Interaction3.PNG">
+ <source media="(prefers-color-scheme: light)" https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/Interaction3.PNG">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/Interaction3.PNG">
 </picture>
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/IMG_7992%202.PNG">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/IMG_7992%202.PNG">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/IMG_7992%202.PNG">
+ <source media="(prefers-color-scheme: dark)" https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/Interaction4.PNG">
+ <source media="(prefers-color-scheme: light)" https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/Interaction4.PNG">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/Interaction4.PNG">
 </picture>
 
 
@@ -175,15 +175,15 @@ Tip: The gesture recognition feature is only available on devices with iOS 14.0 
 Mainly communicate with teachers and cooperate with GitHub Copilot.
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-20%2014.16.52.png">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-20%2014.16.52.png">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-20%2014.16.52.png">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/procedure7.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/procedure7.png">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/procedure7.png">
 </picture>
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-20%2014.17.05.png">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-20%2014.17.05.png">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-20%2014.17.05.png">
+ <source media="(prefers-color-scheme: dark)" https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/procedure4.png">
+ <source media="(prefers-color-scheme: light)" https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/procedure4.png">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/procedure4.png">
 </picture>
 
 "MainCamera" represents our coordinates in space, and the "if" statement identifies the coordinate position of "MainCamera" to determine whether the player has interacted with "Door".
