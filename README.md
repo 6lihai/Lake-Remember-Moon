@@ -1,10 +1,10 @@
-# SUCCESS-LAKE
+# Three LAKE Remember Moon 
 WE want to be succeed with the lake
 
 <picture>
- <source media="(prefers-color-scheme: dark)" https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-22%2007.50.32.png">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-22%2007.50.32.png">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-22%2007.50.32.png">
+ <source media="(prefers-color-scheme: dark)" https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/cover.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/cover.png">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/cover.png">
 </picture>
 
 
@@ -22,9 +22,9 @@ Draw a concept map based on markers
 ## Medium term:
 ### Timeline:
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-01%2022.53.13.png">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-01%2022.53.13.png">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-01%2022.53.13.png">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/timetable.png">
+ <source media="(prefers-color-scheme: light)" https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/timetable.png">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/timetable.png">
 </picture>
 
 Determine the form of interaction, and the interaction of the game should not be too diverse
@@ -48,23 +48,23 @@ Continue to modify and improve the plan, optimize the scene and interactive cont
 ## Prophase
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%9C%AA%E6%A0%87%E9%A2%98-3.png">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%9C%AA%E6%A0%87%E9%A2%98-3.png">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%9C%AA%E6%A0%87%E9%A2%98-3.png">
+ <source media="(prefers-color-scheme: dark)" https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/Interaction%20rollup.png">
+ <source media="(prefers-color-scheme: light)" https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/Interaction%20rollup.png">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/Interaction%20rollup.png">
 </picture>
 
 # Fine arts:
 ## Scenario:
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-19%2022.58.04.png">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-19%2022.58.04.png">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-19%2022.58.04.png">
+ <source media="(prefers-color-scheme: dark)" https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/map5.png">
+ <source media="(prefers-color-scheme: light)" https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/map5.png">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/map5.png">
 </picture>
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-19%2022.54.00.png">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-19%2022.54.00.png">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-19%2022.54.00.png">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/map2.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/map2.png">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/map2.png">
 </picture>
 
 
@@ -78,9 +78,9 @@ https://github.com/6lihai/SUCCESS-LAKE/assets/163080298/b97694c9-13a7-4e73-950f-
 
 ## Shader render pipeline
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-20%2015.06.37.png">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-20%2015.06.37.png">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-20%2015.06.37.png">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/procedure5.png">
+ <source media="(prefers-color-scheme: light)" https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/procedure5.png">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/procedure5.png">
 </picture>
 
 
@@ -88,21 +88,21 @@ https://github.com/6lihai/SUCCESS-LAKE/assets/163080298/b97694c9-13a7-4e73-950f-
 
 # Narrative
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-20%2015.01.00.png">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-20%2015.01.00.png">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-20%2015.01.00.png">
+ <source media="(prefers-color-scheme: dark)" https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/story.png">
+ <source media="(prefers-color-scheme: light)" https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/story.png">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/story.png">
 </picture>
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-20%2015.01.16.png">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-20%2015.01.16.png">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-20%2015.01.16.png">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/story1.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/story1.png">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/story1.png">
 </picture>
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-20%2015.01.39.png">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-20%2015.01.39.png">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-20%2015.01.39.png">
+ <source media="(prefers-color-scheme: dark)" https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/story2.png">
+ <source media="(prefers-color-scheme: light)"https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/story2.png">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/story2.png">
 </picture>
 
 
@@ -110,14 +110,14 @@ https://github.com/6lihai/SUCCESS-LAKE/assets/163080298/b97694c9-13a7-4e73-950f-
 ## Ground compilation (walking route and project experience process)
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%9C%AA%E6%A0%87%E9%A2%98-5.png">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%9C%AA%E6%A0%87%E9%A2%98-5.png">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%9C%AA%E6%A0%87%E9%A2%98-5.png">
+ <source media="(prefers-color-scheme: dark)" https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/map1.png">
+ <source media="(prefers-color-scheme: light)" https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/map1.png">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/map1.png">
 </picture>
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E5%9C%B0%E7%BC%96.png">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E5%9C%B0%E7%BC%96.png">
+ <source media="(prefers-color-scheme: dark)" https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E5%9C%B0%E7%BC%96.png">
+ <source media="(prefers-color-scheme: light)" https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E5%9C%B0%E7%BC%96.png">
  <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E5%9C%B0%E7%BC%96.png">
 </picture>
 
@@ -128,9 +128,9 @@ The main settings of this scene are: 1️⃣ Enter the portal - 2️⃣ Fish jum
 In the design of the ground program, we according to the characters in the field scene can be active in the scope of the size of the design of a more appropriate movement path. Because our real scene path is narrower, so we need to correspondingly constrain the scope of people can walk in the scene design, skills: 1, you can use the virtual entity to cover up. 2, elevate the height of the horizon so that the user arrives at the border to feel afraid of heights.
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%9C%AA%E6%A0%87%E9%A2%98-2.png">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%9C%AA%E6%A0%87%E9%A2%98-2.png">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%9C%AA%E6%A0%87%E9%A2%98-2.png">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/Tip.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/Tip.png">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/Tip.png">
 </picture>
 
 Tips: Please experiment with your application several times and make adjustments accordingly You can place two original-sized squares stacked on top of each other in your scene (about the height and size of a person) Pre-estimate the size of your scene so that it is not too big or too small.
@@ -143,9 +143,9 @@ Tips: Please experiment with your application several times and make adjustments
 ### Hand tracking
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-20%2018.11.57.png">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-20%2018.11.57.png">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-20%2018.11.57.png">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/procedure6.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/procedure6.png">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/procedure6.png">
 </picture>
 
 The "Hand Tracking Manager" requires depth information to calculate the 3D hand position, so add the "AROcclusionManager" component to the "HoloKit Camera" GameObject and adjust its settings accordingly. It is recommended to track one hand to increase the running speed.
@@ -153,15 +153,15 @@ In our project, it is mainly used in the "small fish jumping interaction".
 
 ### Gesture recognition
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/IMG_7991%202.PNG">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/IMG_7991%202.PNG">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/IMG_7991%202.PNG">
+ <source media="(prefers-color-scheme: dark)" https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/Interaction3.PNG">
+ <source media="(prefers-color-scheme: light)" https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/Interaction3.PNG">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/Interaction3.PNG">
 </picture>
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/IMG_7992%202.PNG">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/IMG_7992%202.PNG">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/IMG_7992%202.PNG">
+ <source media="(prefers-color-scheme: dark)" https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/Interaction4.PNG">
+ <source media="(prefers-color-scheme: light)" https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/Interaction4.PNG">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/Interaction4.PNG">
 </picture>
 
 
@@ -175,15 +175,15 @@ Tip: The gesture recognition feature is only available on devices with iOS 14.0 
 Mainly communicate with teachers and cooperate with GitHub Copilot.
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-20%2014.16.52.png">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-20%2014.16.52.png">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-20%2014.16.52.png">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/procedure7.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/procedure7.png">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/procedure7.png">
 </picture>
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-20%2014.17.05.png">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-20%2014.17.05.png">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-20%2014.17.05.png">
+ <source media="(prefers-color-scheme: dark)" https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/procedure4.png">
+ <source media="(prefers-color-scheme: light)" https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/procedure4.png">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/procedure4.png">
 </picture>
 
 "MainCamera" represents our coordinates in space, and the "if" statement identifies the coordinate position of "MainCamera" to determine whether the player has interacted with "Door".
@@ -191,26 +191,26 @@ Mainly communicate with teachers and cooperate with GitHub Copilot.
 ### Portal working logic:
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-19%2023.48.05.png">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-19%2023.48.05.png">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-19%2023.48.05.png">
+ <source media="(prefers-color-scheme: dark)"https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/procedure1.png">
+ <source media="(prefers-color-scheme: light)" https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/procedure1.png">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/procedure1.png">
 </picture>
 
 The first step is to determine the part you need to cover, distinguish the layers "in front of the door" and "behind the door", which will affect the subsequent display effect, (when you find that there is a missing object, you can go back to the layer to view, and make sure that each object is hung on the corresponding layer)
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-19%2023.48.21.png">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-19%2023.48.21.png">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-19%2023.48.21.png">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/procedure2.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/procedure2.png">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/procedure2.png">
 </picture>
 
 When you have transparent objects in your scene, you need to carefully select the three options in "Depth Texture Mode", and in most cases you can choose "After Opaques", which will affect whether the subsequent transparent objects will be visible.
 
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-19%2023.47.41.png">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-19%2023.47.41.png">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-19%2023.47.41.png">
+ <source media="(prefers-color-scheme: dark)" https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/procedure8.png">
+ <source media="(prefers-color-scheme: light)" https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/procedure8.png">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/procedure8.png">
 </picture>
 
 In our scene, because there are transparent objects and opaque objects, we hang two kinds of "Render Objects" on the layer to which each object belongs, so that both transparent and opaque objects can be displayed in one layer.
@@ -219,17 +219,17 @@ In our scene, because there are transparent objects and opaque objects, we hang 
 ### Camera portrait display
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-19%2023.59.05.png">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-19%2023.59.05.png">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-19%2023.59.05.png">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/procedure3.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/procedure3.png">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/procedure3.png">
 </picture>
 
 In order to demonstrate gesture interaction in the virtual space, we need a body mask (the "AR Occlusion Manager") to hang on the "Main Camera", and it is important to note that the mask must be hung on the smallest subset of the camera, otherwise the effect cannot be enabled.
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-20%2000.00.10.png">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-20%2000.00.10.png">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%88%AA%E5%B1%8F2024-04-20%2000.00.10.png">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/procedure9.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/procedure9.png">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/procedure9.png">
 </picture>
 
 The AR Occlusion Manager settings are as shown in the table, and in order to make the program on the device run quickly, it is recommended to select "Medium" for "Human Segmentation Stencil Mode" and "Fastest" for "Human Segmentation Depth Mode". Finally, select "Prefer Human Occlusion" on "Occlusion Preference Mode" to reveal the human body. If your scene has other special requirements, such as "Environment", you can select "Prefer Environment Occlusion".
@@ -266,5 +266,5 @@ https://github.com/Tongzhou-Yu/ar-portal-arfoundation-urp
 ### Our Contributors ✨
 
 <a href="https://github.com/mfts/papermark/graphs/contributors">
-  <img src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/%E6%9C%AA%E6%A0%87%E9%A2%98-1.png" />
+  <img src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/author.png" />
 </a>
