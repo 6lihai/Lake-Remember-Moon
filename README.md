@@ -104,7 +104,7 @@ In the design of the ground program, we according to the characters in the field
  <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/Tip.png">
 </picture>
 
-Tips: Please experiment with your application several times and make adjustments accordingly You can place two original-sized squares stacked on top of each other in your scene (about the height and size of a person) Pre-estimate the size of your scene so that it is not too big or too small.
+⭕️Tips: Please experiment with your application several times and make adjustments accordingly You can place two original-sized squares stacked on top of each other in your scene (about the height and size of a person) Pre-estimate the size of your scene so that it is not too big or too small.
 
 
 # Programmer
@@ -114,6 +114,7 @@ Tips: Please experiment with your application several times and make adjustments
  <source media="(prefers-color-scheme: light)" https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/procedure5.png">
  <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/procedure5.png">
 </picture>
+⭕️Tips：Not only do you need to set up your package in the scene, but you also need to hook it up in the Project Settings to show this effect in the world!
 
 ## HoloKit
 ### Hand tracking
@@ -143,7 +144,7 @@ In our project, it is mainly used in the "small fish jumping interaction".
 
 To take advantage of gesture recognition, add a HandGestureRecognitionManager to your scene. In the project, the index finger click confirmation and two-finger pinch confirmation are mainly used to interact.
 In our projects, we use them in "Lighting the Flames" and "Collecting Clues".
-Tip: The gesture recognition feature is only available on devices with iOS 14.0 or later. You can use both hand tracking and gesture recognition by adding both the Hand Tracking Manager and "HandGestureRecognitionManager" components to your scene.
+⭕️Tips: The gesture recognition feature is only available on devices with iOS 14.0 or later. You can use both hand tracking and gesture recognition by adding both the Hand Tracking Manager and "HandGestureRecognitionManager" components to your scene.
 
 
 ## Interactive technology
@@ -250,5 +251,5 @@ https://github.com/Tongzhou-Yu/ar-portal-arfoundation-urp
  <source media="(prefers-color-scheme: light)" https://github.com/6lihai/Lake-Remember-Moon/blob/main/picture/Members.JPG">
  <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/Lake-Remember-Moon/blob/main/picture/Members.JPG">
 </picture>
-Thank you to the four staff members of our group, Qi Yin, Yutong Ma, Zhaoheng Xie and Haochi Lu , and especially to the teachers Tongzhou Yu and Yongru Lu Yongru who taught us, and thank you for your pleasant companionship during this time!🧚‍♀️🥳
+🤩Thank you to the four staff members of our group, Qi Yin, Yutong Ma, Zhaoheng Xie and Haochi Lu , and especially to the teachers Tongzhou Yu and Yongru Lu Yongru who taught us, and thank you for your pleasant companionship during this time!🥳
 
