@@ -48,12 +48,12 @@ Continue to modify and improve the plan, optimize the scene and interactive cont
 ## Prophase
 
 <picture>
- <source media="(prefers-color-scheme: dark)" https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/Interaction%20rollup.png">
- <source media="(prefers-color-scheme: light)" https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/Interaction%20rollup.png">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/Interaction%20rollup.png">
+ <source media="(prefers-color-scheme: dark)" https://github.com/6lihai/Lake-Remember-Moon/blob/main/picture/work.png">
+ <source media="(prefers-color-scheme: light)"https://github.com/6lihai/Lake-Remember-Moon/blob/main/picture/work.png">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/Lake-Remember-Moon/blob/main/picture/work.png">
 </picture>
 
-# Fine arts:
+# Art:
 ## Scenario:
 <picture>
  <source media="(prefers-color-scheme: dark)" https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/map5.png">
