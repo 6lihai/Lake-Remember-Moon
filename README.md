@@ -68,9 +68,12 @@ Continue to modify and improve the plan, optimize the scene and interactive cont
 </picture>
 
 
-
-
 https://github.com/6lihai/SUCCESS-LAKE/assets/163080298/8bd59ad6-5aba-4f9f-a20a-7f8508a58f4b
+
+https://github.com/6lihai/SUCCESS-LAKE/assets/163080298/b97694c9-13a7-4e73-950f-5fe7669b4140
+
+
+
 
 
 ## Shader render pipeline
