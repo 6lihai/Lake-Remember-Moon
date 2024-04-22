@@ -61,8 +61,10 @@ Continue to modify and improve the plan, optimize the scene and interactive cont
  <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/map5.png">
 </picture>
 
+## Clue fragments - 1 :
 https://github.com/6lihai/SUCCESS-LAKE/assets/163080298/8bd59ad6-5aba-4f9f-a20a-7f8508a58f4b
 
+## Clue fragments - 2 :
 https://github.com/6lihai/SUCCESS-LAKE/assets/163080298/b97694c9-13a7-4e73-950f-5fe7669b4140
 
 
@@ -248,5 +250,5 @@ https://github.com/Tongzhou-Yu/ar-portal-arfoundation-urp
  <source media="(prefers-color-scheme: light)" https://github.com/6lihai/Lake-Remember-Moon/blob/main/picture/Members.JPG">
  <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/Lake-Remember-Moon/blob/main/picture/Members.JPG">
 </picture>
-Thank you to the four staff members of our group, Qi Yin, Yutong Ma, Zhaoheng Xie and Haochi Lu , and especially to the teachers Tongzhou Yu and Yongru Lu Yongru who taught us, and thank you for your pleasant companionship during this time!
+Thank you to the four staff members of our group, Qi Yin, Yutong Ma, Zhaoheng Xie and Haochi Lu , and especially to the teachers Tongzhou Yu and Yongru Lu Yongru who taught us, and thank you for your pleasant companionship during this time!🧚‍♀️🥳
 
