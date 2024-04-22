@@ -22,7 +22,6 @@ Team discussion (determine the topic, content, general form of interaction).Inve
 
 
 ## Medium term:
-### Timeline:
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/timetable.png">
  <source media="(prefers-color-scheme: light)" https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/timetable.png">
@@ -35,16 +34,11 @@ Determine the content of the situation
 Delineate the division of labor (a clear division of labor can improve the speed of work, but too a single division of labor can not touch all the work processes, it is recommended that everyone experience each process, find a good and interested to continue to do.) ）
 
 
-## Termination:
-Advance workflows
-Carry out rectification and program adjustment according to actual capabilities.
-
-
 ## Future：
 Continue to modify and improve the plan, optimize the scene and interactive content according to the story, and continue to update the series of scenes in the case of improvement. After improving the ability, do more research to understand the needs of tourists, open up some new scenes, and may update some stronger and more immersive story scenes in the future.
 
 
-# Mobile phone interface
+# An overview of the application interface：
 <picture>
  <source media="(prefers-color-scheme: dark)" https://github.com/6lihai/Lake-Remember-Moon/blob/main/picture/iphone1.png">
  <source media="(prefers-color-scheme: light)"https://github.com/6lihai/Lake-Remember-Moon/blob/main/picture/iphone1.png">
@@ -70,15 +64,6 @@ Continue to modify and improve the plan, optimize the scene and interactive cont
 https://github.com/6lihai/SUCCESS-LAKE/assets/163080298/8bd59ad6-5aba-4f9f-a20a-7f8508a58f4b
 
 https://github.com/6lihai/SUCCESS-LAKE/assets/163080298/b97694c9-13a7-4e73-950f-5fe7669b4140
-
-
-
-## Shader render pipeline
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/procedure5.png">
- <source media="(prefers-color-scheme: light)" https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/procedure5.png">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/procedure5.png">
-</picture>
 
 
 # Narrative
@@ -121,6 +106,13 @@ Tips: Please experiment with your application several times and make adjustments
 
 
 # Programmer
+## Shader render pipeline
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/procedure5.png">
+ <source media="(prefers-color-scheme: light)" https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/procedure5.png">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/procedure5.png">
+</picture>
+
 ## HoloKit
 ### Hand tracking
 
@@ -154,7 +146,7 @@ Tip: The gesture recognition feature is only available on devices with iOS 14.0 
 
 ## Interactive technology
 ### Portals
-Mainly communicate with teachers and cooperate with GitHub Copilot.
+Refer to the teacher’s design procedure.Mainly communicate with teachers and cooperate with GitHub Copilot.
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/procedure7.png">
@@ -217,7 +209,6 @@ In order to demonstrate gesture interaction in the virtual space, we need a body
 The AR Occlusion Manager settings are as shown in the table, and in order to make the program on the device run quickly, it is recommended to select "Medium" for "Human Segmentation Stencil Mode" and "Fastest" for "Human Segmentation Depth Mode". Finally, select "Prefer Human Occlusion" on "Occlusion Preference Mode" to reveal the human body. If your scene has other special requirements, such as "Environment", you can select "Prefer Environment Occlusion".
 
 
-
 # Additional Learning References
 ### The sound is far and near
 https://blog.csdn.net/LLLLL__/article/details/105968761
@@ -245,14 +236,17 @@ https://github.com/Tongzhou-Yu/ar-portal-arfoundation
 https://github.com/Tongzhou-Yu/ar-portal-arfoundation-urp
 
 
-### Our Contributors ✨
+# Our Developers ✨
 
 <a href="https://github.com/mfts/papermark/graphs/contributors">
-  <img src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/author.png" />
+  <img src="https://github.com/6lihai/Lake-Remember-Moon/blob/main/picture/Developers.png" />
 </a>
 
-### Our Guiders ✨
+# Thanks ✨
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/6lihai/Lake-Remember-Moon/blob/main/picture/Members.JPG">
+ <source media="(prefers-color-scheme: light)" https://github.com/6lihai/Lake-Remember-Moon/blob/main/picture/Members.JPG">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/Lake-Remember-Moon/blob/main/picture/Members.JPG">
+</picture>
+Thank you to the four staff members of our group, Qi Yin, Yutong Ma, Zhaoheng Xie and Haochi Lu , and especially to the teachers Tongzhou Yu and Yongru Lu Yongru who taught us, and thank you for your pleasant companionship during this time!
 
-<a href="https://github.com/mfts/papermark/graphs/contributors">
-  <img src="https://github.com/6lihai/Lake-Remember-Moon/blob/main/picture/Guiders.png" />
-</a>
