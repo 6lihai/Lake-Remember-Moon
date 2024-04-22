@@ -42,8 +42,6 @@ Carry out rectification and program adjustment according to actual capabilities
 Continue to modify and improve the plan, optimize the scene and interactive content according to the story, and continue to update the series of scenes in the case of improvement. After improving the ability, do more research to understand the needs of tourists, open up some new scenes, and may update some stronger and more immersive story scenes in the future.
 
 
-
-
 # Mastermind
 ## Prophase
 
@@ -62,15 +60,10 @@ Continue to modify and improve the plan, optimize the scene and interactive cont
 </picture>
 
 <picture>
- <source media="(prefers-color-scheme: dark)" https://github.com/6lihai/Lake-Remember-Moon/blob/main/picture/iphone2.png">
+ <source media="(prefers-color-scheme: dark)"https://github.com/6lihai/Lake-Remember-Moon/blob/main/picture/iphone3.png">
  <source media="(prefers-color-scheme: light)"https://github.com/6lihai/Lake-Remember-Moon/blob/main/picture/iphone2.png">
  <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/Lake-Remember-Moon/blob/main/picture/iphone2.png">
 </picture>
-
-
-
-
-
 
 
 
@@ -90,16 +83,12 @@ https://github.com/6lihai/SUCCESS-LAKE/assets/163080298/b97694c9-13a7-4e73-950f-
 
 
 
-
-
 ## Shader render pipeline
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/procedure5.png">
  <source media="(prefers-color-scheme: light)" https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/procedure5.png">
  <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/procedure5.png">
 </picture>
-
-
 
 
 # Narrative
