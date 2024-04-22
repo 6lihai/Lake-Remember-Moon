@@ -1,5 +1,5 @@
 # Three LAKE Remember Moon 
-WE want to be succeed with the lake
+2024-2-27 —— 2024-4-23（Will continue to update in the future）
 
 <picture>
  <source media="(prefers-color-scheme: dark)" https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/cover.png">
@@ -12,11 +12,13 @@ WE want to be succeed with the lake
 Reminisce about the old West Lake scene, enter the exploration scene, and get clues through interactive games to complete the memory puzzle. It is hoped that through the new and interesting interactive gameplay, we can help everyone understand the culture and stories of the past in the way of event restoration in the process of visiting.
 
 
-## Prophase:
-Team discussion (determine the topic, content, general form of interaction)
-Investigate the size of the real operation area of West Lake
-Record buildings that can be marked interactively (generally choose stationary physical objects, avoid organic matter such as liquids and plants)
-Draw a concept map based on markers
+## Pre-conceptual design:
+<picture>
+ <source media="(prefers-color-scheme: dark)" https://github.com/6lihai/Lake-Remember-Moon/blob/main/picture/work.png">
+ <source media="(prefers-color-scheme: light)"https://github.com/6lihai/Lake-Remember-Moon/blob/main/picture/work.png">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/Lake-Remember-Moon/blob/main/picture/work.png">
+</picture>
+Team discussion (determine the topic, content, general form of interaction).Investigate the size of the real operation area of West Lake.Record buildings that can be marked interactively (generally choose stationary physical objects, avoid organic matter such as liquids and plants).Draw a concept map based on markers.
 
 
 ## Medium term:
@@ -35,24 +37,14 @@ Delineate the division of labor (a clear division of labor can improve the speed
 
 ## Termination:
 Advance workflows
-Carry out rectification and program adjustment according to actual capabilities
+Carry out rectification and program adjustment according to actual capabilities.
 
 
 ## Future：
 Continue to modify and improve the plan, optimize the scene and interactive content according to the story, and continue to update the series of scenes in the case of improvement. After improving the ability, do more research to understand the needs of tourists, open up some new scenes, and may update some stronger and more immersive story scenes in the future.
 
 
-# Mastermind
-## Prophase
-
-<picture>
- <source media="(prefers-color-scheme: dark)" https://github.com/6lihai/Lake-Remember-Moon/blob/main/picture/work.png">
- <source media="(prefers-color-scheme: light)"https://github.com/6lihai/Lake-Remember-Moon/blob/main/picture/work.png">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/Lake-Remember-Moon/blob/main/picture/work.png">
-</picture>
-
-
-## Mobile phone interface
+# Mobile phone interface
 <picture>
  <source media="(prefers-color-scheme: dark)" https://github.com/6lihai/Lake-Remember-Moon/blob/main/picture/iphone1.png">
  <source media="(prefers-color-scheme: light)"https://github.com/6lihai/Lake-Remember-Moon/blob/main/picture/iphone1.png">
@@ -61,8 +53,8 @@ Continue to modify and improve the plan, optimize the scene and interactive cont
 
 <picture>
  <source media="(prefers-color-scheme: dark)"https://github.com/6lihai/Lake-Remember-Moon/blob/main/picture/iphone3.png">
- <source media="(prefers-color-scheme: light)"https://github.com/6lihai/Lake-Remember-Moon/blob/main/picture/iphone2.png">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/Lake-Remember-Moon/blob/main/picture/iphone2.png">
+ <source media="(prefers-color-scheme: light)"https://github.com/6lihai/Lake-Remember-Moon/blob/main/picture/iphone3.png">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/Lake-Remember-Moon/blob/main/picture/iphone3.png">
 </picture>
 
 
@@ -74,8 +66,6 @@ Continue to modify and improve the plan, optimize the scene and interactive cont
  <source media="(prefers-color-scheme: light)" https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/map5.png">
  <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/map5.png">
 </picture>
-
-
 
 https://github.com/6lihai/SUCCESS-LAKE/assets/163080298/8bd59ad6-5aba-4f9f-a20a-7f8508a58f4b
 
