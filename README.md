@@ -61,11 +61,6 @@ Continue to modify and improve the plan, optimize the scene and interactive cont
  <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/map5.png">
 </picture>
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/map2.png">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/map2.png">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/SUCCESS-LAKE/blob/main/picture/map2.png">
-</picture>
 
 
 https://github.com/6lihai/SUCCESS-LAKE/assets/163080298/8bd59ad6-5aba-4f9f-a20a-7f8508a58f4b
