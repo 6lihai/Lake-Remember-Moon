@@ -53,6 +53,27 @@ Continue to modify and improve the plan, optimize the scene and interactive cont
  <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/Lake-Remember-Moon/blob/main/picture/work.png">
 </picture>
 
+
+## Mobile phone interface
+<picture>
+ <source media="(prefers-color-scheme: dark)" https://github.com/6lihai/Lake-Remember-Moon/blob/main/picture/iphone1.png">
+ <source media="(prefers-color-scheme: light)"https://github.com/6lihai/Lake-Remember-Moon/blob/main/picture/iphone1.png">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/Lake-Remember-Moon/blob/main/picture/iphone1.png">
+</picture>
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" https://github.com/6lihai/Lake-Remember-Moon/blob/main/picture/iphone2.png">
+ <source media="(prefers-color-scheme: light)"https://github.com/6lihai/Lake-Remember-Moon/blob/main/picture/iphone2.png">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/6lihai/Lake-Remember-Moon/blob/main/picture/iphone2.png">
+</picture>
+
+
+
+
+
+
+
+
 # Art:
 ## Scenario:
 <picture>
